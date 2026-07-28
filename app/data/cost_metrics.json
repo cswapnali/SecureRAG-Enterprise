@@ -1,0 +1,83 @@
+{
+  "total_queries": 8,
+  "total_prompt_tokens": 6496,
+  "total_completion_tokens": 160,
+  "total_tokens": 6656,
+  "total_cost_usd": 0.003959,
+  "alert_threshold_usd": 0.005,
+  "alert_triggered": false,
+  "query_history": [
+    {
+      "timestamp": "2026-07-25T03:33:45.591841",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 970,
+      "completion_tokens": 63,
+      "total_tokens": 1033,
+      "cost_usd": 0.000622
+    },
+    {
+      "timestamp": "2026-07-25T03:35:37.090386",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 946,
+      "completion_tokens": 29,
+      "total_tokens": 975,
+      "cost_usd": 0.000581
+    },
+    {
+      "timestamp": "2026-07-25T03:36:57.135657",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 854,
+      "completion_tokens": 8,
+      "total_tokens": 862,
+      "cost_usd": 0.00051
+    },
+    {
+      "timestamp": "2026-07-25T03:38:18.850752",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 683,
+      "completion_tokens": 28,
+      "total_tokens": 711,
+      "cost_usd": 0.000425
+    },
+    {
+      "timestamp": "2026-07-25T03:38:42.500880",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 668,
+      "completion_tokens": 8,
+      "total_tokens": 676,
+      "cost_usd": 0.0004
+    },
+    {
+      "timestamp": "2026-07-25T03:40:03.400648",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 876,
+      "completion_tokens": 8,
+      "total_tokens": 884,
+      "cost_usd": 0.000523
+    },
+    {
+      "timestamp": "2026-07-25T03:40:40.932832",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 680,
+      "completion_tokens": 8,
+      "total_tokens": 688,
+      "cost_usd": 0.000408
+    },
+    {
+      "timestamp": "2026-07-25T03:43:10.385068",
+      "username": "Nick",
+      "role": "c_level",
+      "prompt_tokens": 819,
+      "completion_tokens": 8,
+      "total_tokens": 827,
+      "cost_usd": 0.00049
+    }
+  ]
+}

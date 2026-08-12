@@ -1,7 +1,7 @@
 [project]
 name = "securerag-enterprise"
 version = "0.1.0"
-description = "SecureRAG Enterprise (v_0.1.0): Enterprise Chatbot with RBAC, Guardrails, Cost Monitoring & Ragas Evals"
+description = "SecureRAG Enterprise: Enterprise Chatbot with RBAC, Guardrails, Cost Monitoring & Ragas Evals"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

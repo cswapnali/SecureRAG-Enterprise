@@ -1,10 +1,10 @@
-# 🛡️ SecureRAG Enterprise (v_0.1.0)
+# 🛡️ SecureRAG Enterprise 
 
 SecureRAG Enterprise is an enterprise-grade Retrieval-Augmented Generation (RAG) system designed to query private corporate data securely. Features **Role-Based Access Control (RBAC)**, multi-layered **Guardrails** (PII Protection & Out-of-Scope Interception), **Cost & Token Monitoring with Budget Alerts**, and an **Integrated RAGAS Evaluation Framework**.
 
 ---
 
-## ✨ Key Features & Capabilities (v_0.1.0)
+## ✨ Key Features & Capabilities 
 
 ### 📊 1. RAGAS Evaluation Framework Integration
 - **RAG Triad Metrics Evaluator** (`app/services/ragas_evaluator.py`):
@@ -83,7 +83,7 @@ SecureRAG_Enterprise/
 
 ---
 
-## 🚀 How to Run v_0.1.0
+## 🚀 How to Run 
 
 ### 1. Start FastAPI Backend
 ```powershell
